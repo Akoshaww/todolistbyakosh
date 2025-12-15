@@ -1,0 +1,14 @@
+@import "tailwindcss";
+*{
+  margin: 0;
+  user-select: none;
+  box-sizing: border-box;
+}
+body{
+  background: linear-gradient(to bottom, #8d8daa, #dfdfde, #f7f5f2);
+  display: flex;
+  justify-content: center;
+  align-items:flex-start;
+  min-height: 100vh;
+  padding: 20px 50px;
+}
